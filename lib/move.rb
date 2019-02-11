@@ -12,8 +12,7 @@ def input_to_index (input)
   input = input - 1
 end
 
-def move board,input_to_index,player="X"
-
-
-
+def move board,input,player="X"
+  board[input] = player
 end
+
