@@ -13,7 +13,7 @@ def input_to_index (input)
 end
 
 def move board,input_to_index,player="X"
-  
-  
-  
+
+
+
 end
